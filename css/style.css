@@ -1,0 +1,87 @@
+#AboutUs {
+    background: green
+}
+
+.square1 {
+    width: 100px;
+    height: 100px;
+    background: powderblue;
+    float: left;
+    border-style: solid;
+    border-color: greenyellow;
+}
+
+.square2 {
+    width: 100px;
+    height: 100px;
+    background: red;
+    float: left;
+    border-style: solid;
+    border-color: aquamarine;
+}
+
+.square3 {
+    width: 100px;
+    height: 100px;
+    background: olivedrab;
+    float: left;
+    border-style: solid;
+    border-color: orangered;
+}
+
+.square4 {
+    
+    width: 100px;
+    height: 100px;
+    background: yellow;
+    float: left;
+    border-style: solid;
+    border-color: blueviolet;
+}
+
+#Portfolio{
+    width: 100px;
+    height: 500px; 
+}
+
+#Contact{
+    width: 500px;
+    height: 500px;
+}
+
+.square11 {
+    width: 100px;
+    height: 100px;
+    background: yellow;
+    border-style: solid;
+    border-color: blueviolet;
+}
+
+.square22 {
+   
+    width: 100px;
+    height: 100px;
+    background: greenyellow;
+    border-style: solid;
+    border-color: red;
+}
+
+.square33 {
+    width: 100px;
+    height: 100px;
+    background: purple;
+    border-style: solid;
+    border-color: orange;
+    
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
