@@ -1,76 +1,60 @@
-#AboutUs {
+#aboutUs {
     background: green
 }
 
 .square1 {
-    width: 100px;
-    height: 100px;
     background: powderblue;
-    float: left;
-    border-style: solid;
     border-color: greenyellow;
 }
 
 .square2 {
-    width: 100px;
-    height: 100px;
     background: red;
-    float: left;
-    border-style: solid;
     border-color: aquamarine;
 }
 
 .square3 {
-    width: 100px;
-    height: 100px;
     background: olivedrab;
-    float: left;
-    border-style: solid;
     border-color: orangered;
 }
 
 .square4 {
-    
-    width: 100px;
-    height: 100px;
     background: yellow;
-    float: left;
-    border-style: solid;
     border-color: blueviolet;
 }
 
-#Portfolio{
+.square1, .square2, .square3, .square4 {
+    float: left;
+}
+
+
+#portfolio{
     width: 100px;
     height: 500px; 
 }
 
-#Contact{
+#contact{
     width: 500px;
     height: 500px;
 }
 
 .square11 {
-    width: 100px;
-    height: 100px;
     background: yellow;
-    border-style: solid;
     border-color: blueviolet;
 }
 
-.square22 {
-   
+.square1, .square2, .square3, .square4, .square11, .square22, .square33 {
     width: 100px;
     height: 100px;
-    background: greenyellow;
     border-style: solid;
+}
+
+.square22 {
+    background: greenyellow;
     border-color: red;
 }
 
 .square33 {
-    width: 100px;
-    height: 100px;
     background: purple;
-    border-style: solid;
     border-color: orange;
     
 }
